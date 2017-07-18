@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BottomNavigationViewDemo</string>
+    <string name="title_1">1</string>
+    <string name="title_2">2</string>
+    <string name="title_3">3</string>
+    <string name="title_4">4</string>
+    <string name="title_5">5</string>
+    <string name="news">新闻</string>
+    <string name="lib">图书</string>
+    <string name="discovery">发现</string>
+    <string name="more">更多</string>
+</resources>
